@@ -1,3 +1,11 @@
+/*
+ * @Author: Sailer
+ * @Date: 2022-07-26 10:33:26
+ * @LastEditors: Sailer
+ * @LastEditTime: 2022-07-29 11:50:53
+ * @Description: 上品折扣小程序
+ * @FilePath: /NotionNext/themes/next/config_next.js
+ */
 const CONFIG_NEXT = {
 
   HOME_BANNER: false, // 首页是否显示大图及标语 [true,false]
@@ -30,7 +38,7 @@ const CONFIG_NEXT = {
   WIDGET_TOC: true, // 移动端显示悬浮目录
 
   ARTICLE_SHARE: false, // 文章分享功能
-  ARTICLE_RELATE_POSTS: true, // 相关文章推荐
+  ARTICLE_RELATE_POSTS: false, // 相关文章推荐
   ARTICLE_COPYRIGHT: true // 文章版权声明
 
 }
